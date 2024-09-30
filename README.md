@@ -1,4 +1,6 @@
 ## Hi there, I am Nikita 👋
+<h1>Hi there! <span class="wave">👋</span></h1>
+
 
 <!--
 **nikita-chistyakov/nikita-chistyakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
